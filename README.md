@@ -40,7 +40,7 @@ This tool provides two main functionalities:
 
 3. **🏃 Run the Python program**:
     ```bash
-    python password_strength_tool.py
+    python password_checker.py
     ```
 
 ## 🛠️ Implementation Details
